@@ -14,9 +14,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Berenice Castillo, MSW, MS
 bcastil@umich.edu 
 
-#Education
+# $\color{red}{\text{Eduacation}}$
+ 
 ##PhD Social Work & Developmental Psychology -- Expected 2021
-###University of Michigan 
+####University of Michigan 
 
 ## Master of Science (MS) Psychology --2019
 ####University of Michigan
@@ -27,12 +28,12 @@ bcastil@umich.edu
 ##Bachelor of Arts (BA) -- 2013
 ####University of California, Santa Cruz
 
-## Publications
+# $\color{red}{\text{Publications}}$
 [Grogan-Kaylor, A., Burlaka, V., Ma, J., Lee, S., Castillo, B., & Churakova, I. (2018). Predictors of parental use of corporal punishment in Ukraine. Children and youth services review, 88, 66-73.](https://www.sciencedirect.com/science/article/pii/S0190740917310150)
 
 [Castro, Y., Bares, C. B., Castillo, B., & Kennedy, A. (2018). Sociodemographics, but not Acculturation Proxies, Account for Differences in Lifetime Cessation between White and Hispanic Smokers. Ethnicity & disease, 28(3), 145-152.](https://europepmc.org/articles/pmc6051509)
 
-# Funding & Awards
+# $\color{red}{\text{Funding/Awards}}$
 ##University of Michigan 
 ###Institute for Social Research Jerald and Virginia Bachman Research Fellowship- $8,000
 ###Rackham Bobbe and Jon Bridge Award (2019) -$4,500
