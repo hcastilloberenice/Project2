@@ -1,15 +1,20 @@
 ---
 title: "Project2"
 author: "Berenice"
-date: "5/27/2019"
-output: html_document
+date: "`r Sys.Date()`"
+output: 
+pagedown::html_paged: 
+    highlight: haddock
+    toc: yes
+    number_sections: yes
+    theme: default
 ---
 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-![Berenice Castillo](/Users/berenicecastillo/Box/Headshots/castillo3.jpg)
+![](/Users/berenicecastillo/Box/Headshots/castillo3.jpg){width=50%}
 
 ## Berenice Castillo, MSW, MS
 bcastil@umich.edu 
@@ -34,9 +39,10 @@ bcastil@umich.edu
 [Castro, Y., Bares, C. B., Castillo, B., & Kennedy, A. (2018). Sociodemographics, but not Acculturation Proxies, Account for Differences in Lifetime Cessation between White and Hispanic Smokers. Ethnicity & disease, 28(3), 145-152.](https://europepmc.org/articles/pmc6051509)
 
 # $\color{red}{\text{Funding/Awards}}$
-##University of Michigan 
-###Institute for Social Research Jerald and Virginia Bachman Research Fellowship- $8,000
+## $\color{blue}{\text{University of Michigan}}$
+###Institute for Social Research Jerald and Virginia Bachman Research Fellowship (2019)- $8,000
 ###Rackham Bobbe and Jon Bridge Award (2019) -$4,500
+###Faculty Allies for Diversity Writing Fellowship (2019)-$2,000
 ###S.W. Kellogg Family Foundation Fellowship (2018)-$10,000
 ###School of Social Work Grant (2018)- $5,000
 ###Learning Community Manuscript Award (2018)- $4,000
@@ -44,6 +50,7 @@ bcastil@umich.edu
 ###School of Social Work Summer Research Award (2018), -$ 8,000
 ###Society of Multivariate Experimental Psychology Award (2018)- $1,000
 ###Department of Psychology Training Grant (2018)- $1,000
+###Faculty Allies for Diversity Writing Fellowship (2018)-$2,000
 ###School of Social Work Dean’s Travel Grant (2018) -$400
 ###Rackham Travel Grant (2018) -$800
 ###The University of Michigan President’s Advisory Committee on Labor Standards and Human Rights (PACLSHR) Grant (2017)- $5,000
@@ -56,9 +63,9 @@ bcastil@umich.edu
 ###School of Social Work Dean’s Travel Grant (2015) -$400
 ###Rackham Travel Grant (2015) -$800
 ###Rackham Merit Fellowship (2015-2016) -$10,500
-##University of Southern California 
+## $\color{blue}{\text{University of Southern California }}$
 ###Gladys M. Salit Award (2015)-  $3,000
-##University of California, Santa Cruz
+## $\color{blue}{\text{University of California, Santa Cruz}}$
 ###Herman Blake Award (2013)- $1,000
 ###Senior Thesis Research Award (2013)- $400
 
